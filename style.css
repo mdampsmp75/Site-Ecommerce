@@ -1,0 +1,40 @@
+
+/* colorer la page web*/
+html {
+
+    background :greenyellow;
+    font-family: Georgia,
+}
+
+/* colorer et parametrer le body*/
+body {
+
+    background:white; 
+    width: 700px;
+    margin: 0 auto 0; 
+    padding: 10px;
+}
+
+
+/* acceder au classe (ici image on a la met a droite*/
+.profile {
+
+    float: right;
+    padding: 1px; 
+}
+
+/* colorer les h*/
+h2, h3 {
+
+    font-family: verdana;
+    color: red;
+
+}
+
+
+/* colorer les blocks DIV*/
+.identity{
+
+    background: green;
+}
+/* jddzczi
